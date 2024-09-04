@@ -34,3 +34,9 @@
  - Normal JS utility function
  - useState() - superpowerful ract variable
  - useEffect()
+
+# Create CustomHook
+
+# Learn Tailwind CSS
+
+# Data is the new Oil
